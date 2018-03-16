@@ -66,6 +66,9 @@ def poker_room():
             print "Thank you for playing you may now go to the next room"
             bear_room()
 
+def play_again():
+
+
 
 def cthulhu_room():
     print "Here you see the great evil Cthulhu."

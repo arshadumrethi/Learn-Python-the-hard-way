@@ -18,7 +18,7 @@ joke_evaluation = "Isn't that joke so funny?! %r"
 
 #print type(hilarious) Use this to check type of Variable
 
-print joke_evaluation % hilarious
+print joke_evaluation, hilarious
 
 w = "This is the left side of..."
 e = "a string with a right side."
